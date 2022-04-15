@@ -1,4 +1,4 @@
-index,course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled
+,course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled
 134,(ISC)² Systems Security Certified Practitioner (SSCP),(ISC)²,SPECIALIZATION,4.7,Beginner,5.3k
 743,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,COURSE,4.7,Intermediate,17k
 874,A Crash Course in Data Science,Johns Hopkins University,COURSE,4.5,Mixed,130k
